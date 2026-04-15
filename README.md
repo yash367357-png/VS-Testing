@@ -65,7 +65,7 @@ A modern, full-featured personal finance management application that combines **
 
 ---
 
-## 🎯 Key Highlights
+## Key Highlights
 
 * Combines **personal finance tracking + group expense splitting**
 * Modular and scalable UI architecture
@@ -73,11 +73,16 @@ A modern, full-featured personal finance management application that combines **
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 👉 https://vs-testing-ilii.vercel.app/
 
 ---
+
+## Future Improvements
+* Smart spending insights
+* Budget tracking system
+* Recurring transactions
 
 ## 👨‍💻 Author
 
