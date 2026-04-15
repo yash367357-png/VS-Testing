@@ -81,7 +81,7 @@ export default function AccountBreakdown({ data }: AccountBreakdownProps) {
     <div className="bg-white rounded-xl shadow-sm p-5 flex flex-col">
       <h3 className="text-base font-semibold text-gray-700 mb-4">Spending by Account</h3>
       <div style={{ height: chartHeight }}>
-        <Bar data={chartData} options={options} />
+        <Bar data={chartData} options={options as any} />
       </div>
     </div>
   );
