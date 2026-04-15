@@ -75,7 +75,7 @@ A modern, full-featured personal finance management application that combines **
 
 ## Live Demo
 
-👉 https://vs-testing-ilii.vercel.app/
+👉 https://expense-intelligence-xi.vercel.app/
 
 ---
 
