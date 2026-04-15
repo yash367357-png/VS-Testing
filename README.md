@@ -53,15 +53,15 @@ A modern, full-featured personal finance management application that combines **
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./src/screenshots/dashboard.png)
 
 ### Transactions
 
-![Transactions](./screenshots/transactions.png)
+![Transactions](./src/screenshots/transactions.png)
 
 ### Split Expenses
 
-![Splits](./screenshots/splits.png)
+![Splits](./src/screenshots/splits.png)
 
 ---
 
